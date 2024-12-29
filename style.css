@@ -1,0 +1,50 @@
+body{
+    background-image: url(https://avatars.mds.yandex.net/i?id=55017e6a7c2d854a4924990e098c1806_l-5210178-images-thumbs&n=13);
+}
+.container{
+    display: flex;
+}
+.card{
+    display: flex;
+}
+.left{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.right{
+    font-size: 35px;
+    color: white;
+    display: flex;
+    justify-content: end;
+    align-items: start;
+    flex-direction: column;
+}
+img{
+    height: 300px;
+    width: 300px;
+    
+}
+button{
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    font-family: "Anton", serif;
+    font-weight: 400;
+    font-style: normal;    
+}
+.vinni{
+    height: 250px;width: 250px;
+}
+button{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+}
+h1,h2,h3{
+font-family: "Anton", serif;
+font-weight: 400;
+font-style: normal;
+}
